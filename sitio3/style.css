@@ -1,7 +1,7 @@
 /* Selecciona todos los encabezamientos <h2> */
 h2 {
-    color: darkblue;
-    font-size: 20px;
+    color: rgb(0, 139, 19);
+    font-size: 50px;
     font-family: arial;
 }
 
